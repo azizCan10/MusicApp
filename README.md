@@ -1,3 +1,3 @@
-Java dili kullanılarak yazılmıştır. 
+Written with Java
 
-Eclipse ve Netbeand idelerinde çalıştırılması tavsiye edilir
+Eclipse and Netbeans ides are recommended
